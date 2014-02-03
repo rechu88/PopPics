@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A64DAF27-681F-4E49-9FFB-F4F659D13B5A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PopPics</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>756E246D-9E19-4A09-9BF3-A408843B6DAF</key>
+		<string>ssh://github.com/caius/foo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PopPics.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>756E246D-9E19-4A09-9BF3-A408843B6DAF</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/caius/foo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>756E246D-9E19-4A09-9BF3-A408843B6DAF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>756E246D-9E19-4A09-9BF3-A408843B6DAF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PopPics</string>
+		</dict>
+	</array>
+</dict>
+</plist>
