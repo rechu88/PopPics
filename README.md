@@ -9,14 +9,23 @@ It also lets you share the images on facebooks
 Libraries Used
 =======
 
-FlickrKit          - To access Flickr
-500px-iOS-api      - To access 500px
-instagram-ios-sdk  - To access Instagram Pics (Requires Authentication)
-Facebook-iOS-SDK   - To share to Facebook (Requires Authentication)
+**FlickrKit**          - To access Flickr
 
-UIAlertView+Blocks - Alert view callbacks with Block
+**500px-iOS-api**      - To access 500px
 
-SDWebImage         - Cache Images
+**instagram-ios-sdk**  - To access Instagram Pics (Requires Authentication)
 
-OCMock             - Library for Mocking
+**Facebook-iOS-SDK**   - To share to Facebook (Requires Authentication)
 
+----
+
+**UIAlertView+Blocks** - Alert view callbacks with Block
+
+**SDWebImage**         - Cache Images
+
+**OCMock**             - Library for Mocking
+
+License
+=======
+
+Open to all
